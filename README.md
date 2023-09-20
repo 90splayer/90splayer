@@ -1,4 +1,4 @@
-# Hello there; welcome 👋🏾
+# Hello, welcome 👋🏾
 
 [![Website Badge](https://img.shields.io/badge/-kampxc.com-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://kampxc.com)](https://kampxc.com) [![Linkedin Badge](https://img.shields.io/badge/-ojogbomichael-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ojogbomichael)](https://www.linkedin.com/in/ojogbomichael) [![Twitter Badge](https://img.shields.io/badge/-@kampxc-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/kampxc)](https://twitter.com/kampxc)
 
