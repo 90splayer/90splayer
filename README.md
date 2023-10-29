@@ -10,7 +10,7 @@ I'm a Software Engineer, Content Creator, and Technical Writer who is currently 
 - 💡 Fun fact: I make music😊
 - 🌱 I’m currently learning JavaScript, Reactjs, Typescript, and Nodejs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Front Engineer, Software Engineer or Product Designer (Intern or Junior level).
+- 💼 Job interests: Frontend Engineer, Backend Engineer or Product Designer (Intern or Middle level).
 - 📫 You can [view my resume](https://read.cv/enwerim) and contact me by emailing ojogbomichael@gmail.com.
 
 ---
