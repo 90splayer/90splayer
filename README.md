@@ -9,8 +9,8 @@ I'm a Software Engineer, Designer, and Technical Writer who is currently buildin
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I make music😊
 - 🌱 I’m currently learning Python, Nextjs, Typescript, and Nodejs.
-- 😊 I’m looking for help with open source projects, proffessional internships, and mid-level opportunities.
-- 💼 Job interests: Frontend Engineer, Backend Engineer or Product Designer.
+- 😊 I’m looking to help with open source projects, proffessional internships, and mid-level opportunities.
+- 💼 Job interests: Backend Engineer, Frontend Engineer or Product Designer.
 - 📫 You can [view my resume](https://read.cv/enwerim) and contact me by emailing ojogbomichael@gmail.com.
 
 ---
