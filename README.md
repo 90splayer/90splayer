@@ -7,10 +7,9 @@ I'm a Software Engineer, Designer, and Technical Writer who is currently buildin
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I make music😊
-- 🌱 I’m currently learning  Javascript/Typescript, Nextjs, React Native, AWS, Python and Nodejs.
+- 🌱 I’m currently learning Artificial Intelligence with a focus in Computer Vision.
 - 😊 I’m looking to help with open source projects, proffessional internships, and mid-level opportunities.
-- 💼 Job interests: Full Stack Engineer, DevOps or Product Designer.
+- 💼 Job interests: Full Stack or AI Engineer.
 - 📫 You can [view my resume](https://read.cv/enwerim) and contact me by emailing ojogbomichael@gmail.com.
 
 ---
