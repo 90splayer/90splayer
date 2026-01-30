@@ -6,7 +6,6 @@ I'm a Software Engineer, Designer, and Technical Writer who is currently buildin
 
 **Here's a quick summary about me**:
 
-- 😊 Pronouns: He/him
 - 🌱 I’m currently learning Artificial Intelligence with a focus in Computer Vision.
 - 😊 I’m looking to help with open source projects, proffessional internships, and mid-level opportunities.
 - 💼 Job interests: Full Stack or AI Engineer.
